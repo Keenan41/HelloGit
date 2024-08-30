@@ -10,7 +10,6 @@ public class Hello {
     System.out.println("Computer Science");
     System.out.println("Luke Uhlir");
     System.out.println("Computer Engineering");
-    System.out.println("Help");
   }
 
 }
